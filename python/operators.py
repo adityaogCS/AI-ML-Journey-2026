@@ -1,13 +1,3 @@
-a = (8+2j)
-b = True
-c = "hey"
-a1 = 9
-print("the type of a is", type(a))
-print(type(b))
-print(type(c))
-print(a+a1)
-List1= [8, 2.3, [-4,5], ["apple", "banana"]]
-print(List1)
 #operators
 
 print(5+3)
